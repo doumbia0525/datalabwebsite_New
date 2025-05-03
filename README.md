@@ -1,6 +1,6 @@
-# Cours d'apprentissage profond à l'Ensai
+# Cours d'apprentissage profond à l'ENSEA en mai 2025
 
-Ce dépôt GitHub contient les supports du cours d'apprentissage profond à l'École Nationale Supérieure de la Statistique et de l'Économie Appliquée.
+Ce dépôt GitHub contient les supports du cours d'apprentissage profond donné à l'École Nationale Supérieure de la Statistique et de l'Économie Appliquée en mai 2025.
 
 ## Travaux pratiques
 
